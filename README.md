@@ -6,9 +6,10 @@ Hi, I’m Chris Le! I'm a [Microsoft Certified Power BI Data Analyst](https://le
 
 ## 🖥️ Skills
 
-- **Programming**: [Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/e3d03d49c7058f8bd733d6cf5aedeb9cf38d819b/), [R](https://www.datacamp.com/completed/statement-of-accomplishment/course/4bb12691d5d56732568dbf55cac662c601b267b8/), [SQL](https://www.hackerrank.com/certificates/8d901a140fd3/) (MySQL, PostgreSQL, MS SQL Server)
+- **Programming**: [Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/e3d03d49c7058f8bd733d6cf5aedeb9cf38d819b/), [R](https://www.datacamp.com/completed/statement-of-accomplishment/course/4bb12691d5d56732568dbf55cac662c601b267b8/), [SQL](https://www.hackerrank.com/certificates/8d901a140fd3/) (MySQL, PostgreSQL, MS SQL Server, SparkSQL)
 - **Visualization**: Power BI, Tableau
-- **Other Tools**: Git, Power Platform, Power Automate, Excel (Power Query & Power Pivot), MS Access, Tableau, , RapidMiner, Salesforce, Oracle NetSuite, MS Dynamics 365, MS Visio
+- **Cloud services**: Snowflake, AWS Lambda, Amazon S3, AWS Glue, Amazon EventBridge, AWS Step Functions, Amazon Athena, Amazon QuickSight
+- **Other Tools**: MS Fabrics, Power Automate, Excel (Power Query & Power Pivot), MS Access, RapidMiner, Salesforce, Oracle NetSuite, MS Dynamics 365, MS Visio
 
 ## 👀 Areas of Interest
 
