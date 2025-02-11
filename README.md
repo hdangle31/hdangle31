@@ -13,12 +13,12 @@ Hi, I’m Chris Le! I'm a [Microsoft Certified Power BI Data Analyst](https://le
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="r" width="40" height="40"/>  
 
 - **Visualization**: 
-  <div align-"left>
+<div align-"left>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>  
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="80" height="40"/>  
 
-- **Cloud services**: Snowflake, AWS Lambda, Amazon S3, AWS Glue, Amazon EventBridge, AWS Step Functions, Amazon Athena, Amazon QuickSight
-  <div align-"left>
+- **Cloud services**:
+<div align-"left>
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" alt="apachespark" width="40" height="40"/>  
     <img src="https://cdn.brandfetch.io/idJz-fGD_q/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="snowflake" width="40" height="40"/>  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -53,6 +53,7 @@ I'm actively looking for opportunities in the fields of Business Intelligence, D
 ## 🌱 Learning Goal 
 
 AWS and Azure Synapse Analytics
+Snowflake, AWS Lambda, Amazon S3, AWS Glue, Amazon EventBridge, AWS Step Functions, Amazon Athena, Amazon QuickSight
 
 ## 📫 Get in Touch
 
