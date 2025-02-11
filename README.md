@@ -13,6 +13,10 @@ Hi, I’m Chris Le! I'm a [Microsoft Certified Power BI Data Analyst](https://le
 
 <div align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="r" width="40" height="40"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="40" height="40"/>  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" alt="apachespark" width="40" height="40"/>  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
