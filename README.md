@@ -7,7 +7,9 @@ Hi, I’m Chris Le! I'm a [Microsoft Certified Power BI Data Analyst](https://le
 ## 🖥️ Skills
 
 - **Programming**: [Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/e3d03d49c7058f8bd733d6cf5aedeb9cf38d819b/), [R](https://www.datacamp.com/completed/statement-of-accomplishment/course/4bb12691d5d56732568dbf55cac662c601b267b8/), [SQL](https://www.hackerrank.com/certificates/8d901a140fd3/) (MySQL, PostgreSQL, MS SQL Server, SparkSQL)
-- **Visualization**: Power BI, Tableau
+- **Programming**: <div align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="r" width="40" height="40"/>  
+- **Visualization**: <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="80" height="40"/>  
 - **Cloud services**: Snowflake, AWS Lambda, Amazon S3, AWS Glue, Amazon EventBridge, AWS Step Functions, Amazon Athena, Amazon QuickSight
 - **Other Tools**: MS Fabrics, Power Automate, Excel (Power Query & Power Pivot), MS Access, RapidMiner, Salesforce, Oracle NetSuite, MS Dynamics 365, MS Visio
 
@@ -28,6 +30,7 @@ Hi, I’m Chris Le! I'm a [Microsoft Certified Power BI Data Analyst](https://le
     <img src="https://cdn.brandfetch.io/idJz-fGD_q/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="snowflake" width="40" height="40"/>  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+
 
 ## 👀 Areas of Interest
 
